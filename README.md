@@ -1,12 +1,29 @@
-# React + Vite
+# GTA VI Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive landing page inspired by GTA VI, built with React and GSAP animations.
 
-Currently, two official plugins are available:
+## Live Demo
+https://sk-kayes.github.io/gta-VI/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React
+- GSAP (@gsap/react)
+- Tailwind CSS
+- Remixicon
+- Vite
 
-## Expanding the ESLint configuration
+## Installation
+1. Clone the repo  
+2. Run `npm install`  
+3. Run `npm run dev` to start the development server
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Build & Deploy
+- Build: `npm run build`  
+- Preview build: `npm run preview`  
+- Deploy to GitHub Pages: `npm run deploy`
+
+## Recommended Resolution
+Best viewed at 1080×1920 resolution.
+
+## Acknowledgments
+Thanks to Sheryians Coding School and Harsh Vardana Sharma (Viya) for their guidance.
